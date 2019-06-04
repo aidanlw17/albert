@@ -1,0 +1,15 @@
+{
+  "name": "albert",
+  "version": "1.0.0",
+  "description": "An intelligent explorer and companion, designed to work alongside you for maximum productivity. Early feature plans: conversational ai, search engine results in terminal, shell capabilities.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aidanlw17",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.2"
+  }
+}
